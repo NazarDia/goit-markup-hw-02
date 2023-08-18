@@ -46,8 +46,8 @@ body {
 .navigation-social {
   font-style: normal;
 }
-.e-mail:hover,
-.e-mail:focus {
+.contact-details:hover,
+.contact-details:focus {
   color: #404bbf;
 }
 .contact-details {
@@ -81,6 +81,9 @@ body {
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
+}
+.section {
+  color: white;
 }
 .description-list {
   list-style-type: none;
